@@ -1,0 +1,41 @@
+<resources>
+    <string name="titulo_acerca_de">Acerca de Makakat-on</string>
+    <string name="ITCR">Instituto Tecnológico de Costa Rica</string>
+    <string name="escuela">Escuela de Ingeniería en Computación</string>
+    <string name="curso">Desarrollo de Aplicaciones Móviles</string>
+    <string name="robert">Robert Céspedes García</string>
+    <string name="franco">Franco Solís Alvarado</string>
+    <string name="samuel">Samuel Yoo</string>
+    <string name="autores">Autores:</string>
+    <string name="agradecimientos">Agradecimientos:</string>
+    <string name="profesora">Profesora:</string>
+    <string name="adriana">Adriana Álvarez Figueroa</string>
+    <string name="descripcion">Descripción:</string>
+    <string name="sinopsis">Makakat-on es una aplicación móvil dirigida desde niños a jóvenes que desean, agilizar y mejorar de su procesamiento cognitivo de problemas matemáticos, desde sumas y restas hasta derivadas e integrales. Todo esto es presentado con tecnologías actuales como lo es la realidad virtual. Generando un ambiente más inmerso, cautivando al usuario en un espacio en 3D donde se maximiza el potencial del procesamiento por medio de la vista y los sonidos de la aplicación. Varios modos de juego y niveles hacen de Makakat-on una nueva experiencia de aprendizaje.</string>
+    <string name="app_name">Makakat-on</string>
+    <string name="start">PRESS + START</string>
+    <string name="rush">RUSH</string>
+    <string name="single">SINGLEPLAYER</string>
+    <string name="multi">MULTIPLAYER</string>
+
+    <string name="level1">Fácil</string>
+    <string name="level2">Intermedio</string>
+    <string name="level3">Avanzado</string>
+
+    <string name="title_activity_menu">Menu</string>
+    <string name="title_activity_level">Level</string>
+    <string name="title_activity_multiplayer">Multiplayer</string>
+    <string name="title_activity_singleplayer">Singleplayer</string>
+    <string name="title_activity_after_game_screen">AfterGameScreen</string>
+    <string name="rushReady">Presione un número para iniciar.</string>
+    <string name="about">Acerca de</string>
+    <string name="title_activity_about">Acerca de</string>
+    <string name="txtMejoresPuntajes">Mejores Puntajes</string>
+    <string name="title_activity_highscores">Highscores</string>
+    <string name="txtSingleEasyTitle">High Scores Singleplayer Fácil</string>
+    <string name="txtSingleMediumTitle">High Scores Singleplayer Intermedio</string>
+    <string name="txtSingleAdvancedTitle">High Scores Singleplayer Avanzado</string>
+    <string name="txtRushEasyTitle">High Scores Rush Fácil</string>
+    <string name="txtRushMediumTitle">High Scores Rush Intermedio</string>
+    <string name="txtRushAdvancedTitle">High Scores Rush Avanzado</string>
+</resources>
